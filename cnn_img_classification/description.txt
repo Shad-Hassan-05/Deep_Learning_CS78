@@ -1,1 +1,1 @@
-Code for a CNN that classifies images in a data set. 
+Code for a CNN that classifies images in a data set. The dataset can be found here: https://drive.google.com/file/d/1-dtVe1I20cerLO_eILC2Ep69XID_xCCs/view?usp=sharing. My CS78 professor wrote a lot of this code; my contributions are the actual design of the model, training policy, and creation of the dataset.  
